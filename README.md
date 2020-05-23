@@ -41,3 +41,6 @@ We can see that there are always 5 active threads that are the # of threads that
 # jconsole
 ```
 
+![]()
+
+![]()
