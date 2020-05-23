@@ -41,6 +41,6 @@ We can see that there are always 5 active threads that are the # of threads that
 # jconsole
 ```
 
-![]()
+![Connecting to jconsole](jconsole-connect.png)
 
-![]()
+![Filtering threads by "TNP-" prefix](jconsole-threads.png)
